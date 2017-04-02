@@ -22,7 +22,7 @@ The source is available here: <https://github.com/denysdovhan/bash-handbook>
 
 # فهرس
 
-- [Introduction](#introduction)
+- [مقدمة](#مقدمة)
 - [Shells and modes](#shells-and-modes)
   - [Interactive](#interactive-mode)
   - [Non-interactive](#non-interactive-mode)
