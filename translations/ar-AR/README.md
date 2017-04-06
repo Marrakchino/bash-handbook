@@ -10,6 +10,7 @@
 >  [**تلميح**] بيبييبيب
 
 # Node Packaged Manuscript
+#السلام عليكم
 
 يمكنك تثبيت هذا الدليل باستخدام `npm`. من أجل ذلك يكفي  
 You can install this handbook using `npm`. Just run:
