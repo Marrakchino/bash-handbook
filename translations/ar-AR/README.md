@@ -4,13 +4,14 @@
 [![NPM version][npm-image]][npm-url]
 [![Gitter][gitter-image]][gitter-url]
 
-تمت كتابة هذه الوثيقة من
-This document was written for those who want to learn Bash without diving in too deeply.
+تمت كتابة هذه الوثيقة للذين يريدون تعلم لغة باش دون الخوض في أعماقها.
 
-> **تلميح**: يك [**learnyoubash**](https://git.io/learnyoubash) — an interactive workshopper based on this handbook!
+> **تلميح**: يمك [**تلميح**](https://git.io/learnyoubash) — an interactive workshopper based on this handbook!
+>  [**تلميح**] بيبييبيب
 
 # Node Packaged Manuscript
 
+يمكنك تثبيت هذا الدليل باستخدام `npm`. من أجل ذلك يكفي  
 You can install this handbook using `npm`. Just run:
 
 ```
@@ -23,7 +24,7 @@ The source is available here: <https://github.com/denysdovhan/bash-handbook>
 
 # فهرس
 
-- [مقدمة](#مقدمة)
+- [مقدمة)[#مقدمة)
 - [Shells and modes](#shells-and-modes)
   - [Interactive](#interactive-mode)
   - [Non-interactive](#non-interactive-mode)
